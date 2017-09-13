@@ -14,7 +14,7 @@ int main(int lenArgs, char* args[])
 		page = atoi(args[1]);
 	}
 	else{
-		cout << "Please giv an argument to the program" << endl;
+		cout << "Please give an argument to the program" << endl;
 		return 1;
 	}
 	
